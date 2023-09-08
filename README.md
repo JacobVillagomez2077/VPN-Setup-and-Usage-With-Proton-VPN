@@ -15,7 +15,7 @@ In this tutorial, we are going to make a VPN using Proton VPN and measure the di
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [YouTube: Lab 4 :  VPN Setup and Usage With Proton VPN](https://youtu.be/RJzSM125_xM)
 
 <h2>Environments and Technologies Used</h2>
 
